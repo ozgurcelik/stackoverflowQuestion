@@ -1,0 +1,75 @@
+training datasets combined, lr =0.1, momentum=0.9
+
+	Round 0 training loss: 1.9335068464279175
+	Round 0 client_id: 0 eval_score: 0.4571000039577484
+	Round 0 client_id: 1 eval_score: 0.4514000117778778
+	Round 0 client_id: 2 eval_score: 0.4738999903202057
+	Round 0 client_id: 3 eval_score: 0.4560000002384186
+	Round 0 client_id: 4 eval_score: 0.4697999954223633
+	Round 0 validation accuracy: 10.0
+	Round 1 training loss: 1.4404207468032837
+	Round 1 client_id: 0 eval_score: 0.5945000052452087
+	Round 1 client_id: 1 eval_score: 0.5909000039100647
+	Round 1 client_id: 2 eval_score: 0.5864999890327454
+	Round 1 client_id: 3 eval_score: 0.5871999859809875
+	Round 1 client_id: 4 eval_score: 0.5684000253677368
+	Round 1 validation accuracy: 59.57999801635742
+	Round 2 training loss: 1.0174440145492554
+	Round 2 client_id: 0 eval_score: 0.7002999782562256
+	Round 2 client_id: 1 eval_score: 0.6953999996185303
+	Round 2 client_id: 2 eval_score: 0.6830999851226807
+	Round 2 client_id: 3 eval_score: 0.6682999730110168
+	Round 2 client_id: 4 eval_score: 0.6754000186920166
+	Round 2 validation accuracy: 72.41999816894531
+	Round 3 training loss: 0.7608759999275208
+	Round 3 client_id: 0 eval_score: 0.7621999979019165
+	Round 3 client_id: 1 eval_score: 0.7608000040054321
+	Round 3 client_id: 2 eval_score: 0.7390000224113464
+	Round 3 client_id: 3 eval_score: 0.7301999926567078
+	Round 3 client_id: 4 eval_score: 0.7303000092506409
+	Round 3 validation accuracy: 78.33000183105469
+	Round 4 training loss: 0.5893330574035645
+	Round 4 client_id: 0 eval_score: 0.7814000248908997
+	Round 4 client_id: 1 eval_score: 0.7861999869346619
+	Round 4 client_id: 2 eval_score: 0.7804999947547913
+	Round 4 client_id: 3 eval_score: 0.7694000005722046
+	Round 4 client_id: 4 eval_score: 0.758400022983551
+	Round 4 validation accuracy: 81.30000305175781
+	
+split dataset, lr=0.1, momentum=0.9	
+	
+	Round 0 training loss: 3.0080783367156982
+	Round 0 client_id: 0 eval_score: 0.2287999987602234
+	Round 0 client_id: 1 eval_score: 0.2614000141620636
+	Round 0 client_id: 2 eval_score: 0.22040000557899475
+	Round 0 client_id: 3 eval_score: 0.24799999594688416
+	Round 0 client_id: 4 eval_score: 0.2565999925136566
+	Round 0 validation accuracy: 10.0
+	Round 1 training loss: 1.920640230178833
+	Round 1 client_id: 0 eval_score: 0.25220000743865967
+	Round 1 client_id: 1 eval_score: 0.32199999690055847
+	Round 1 client_id: 2 eval_score: 0.32580000162124634
+	Round 1 client_id: 3 eval_score: 0.3513000011444092
+	Round 1 client_id: 4 eval_score: 0.34689998626708984
+	Round 1 validation accuracy: 34.470001220703125
+	Round 2 training loss: 1.65810227394104
+	Round 2 client_id: 0 eval_score: 0.34369999170303345
+	Round 2 client_id: 1 eval_score: 0.3138999938964844
+	Round 2 client_id: 2 eval_score: 0.35580000281333923
+	Round 2 client_id: 3 eval_score: 0.39649999141693115
+	Round 2 client_id: 4 eval_score: 0.3917999863624573
+	Round 2 validation accuracy: 45.0
+	Round 3 training loss: 1.4956902265548706
+	Round 3 client_id: 0 eval_score: 0.46380001306533813
+	Round 3 client_id: 1 eval_score: 0.388700008392334
+	Round 3 client_id: 2 eval_score: 0.39239999651908875
+	Round 3 client_id: 3 eval_score: 0.43700000643730164
+	Round 3 client_id: 4 eval_score: 0.430400013923645
+	Round 3 validation accuracy: 50.62000274658203
+	Round 4 training loss: 1.3692104816436768
+	Round 4 client_id: 0 eval_score: 0.510200023651123
+	Round 4 client_id: 1 eval_score: 0.42739999294281006
+	Round 4 client_id: 2 eval_score: 0.4223000109195709
+	Round 4 client_id: 3 eval_score: 0.45080000162124634
+	Round 4 client_id: 4 eval_score: 0.45559999346733093
+	Round 4 validation accuracy: 54.83000183105469

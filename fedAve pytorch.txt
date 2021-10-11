@@ -1,0 +1,315 @@
+training datasets combined, lr =0.1, momentum=0.9
+
+	Round:  0
+	Client  0
+	Test set: Average loss: 1.6601 
+	Accuracy Top1: 3858/10000 (38.58%)
+	Accuracy Top5: 8987/10000 (89.87%)
+
+	Client  1
+	Test set: Average loss: 1.4448 
+	Accuracy Top1: 4706/10000 (47.06%)
+	Accuracy Top5: 9257/10000 (92.57%)
+
+	Client  2
+	Test set: Average loss: 1.5709 
+	Accuracy Top1: 4244/10000 (42.44%)
+	Accuracy Top5: 9052/10000 (90.52%)
+
+	Client  3
+	Test set: Average loss: 1.6203 
+	Accuracy Top1: 4034/10000 (40.34%)
+	Accuracy Top5: 8999/10000 (89.99%)
+
+	Client  4
+	Test set: Average loss: 1.6342 
+	Accuracy Top1: 4026/10000 (40.26%)
+	Accuracy Top5: 9018/10000 (90.18%)
+
+	Server: 
+	Test set: Average loss: 2.3400 
+	Accuracy Top1: 1000/10000 (10.00%)
+	Accuracy Top5: 5000/10000 (50.00%)
+
+	Round:  1
+	Client  0
+	Test set: Average loss: 1.3809 
+	Accuracy Top1: 5058/10000 (50.58%)
+	Accuracy Top5: 9392/10000 (93.92%)
+
+	Client  1
+	Test set: Average loss: 1.3652 
+	Accuracy Top1: 5118/10000 (51.18%)
+	Accuracy Top5: 9422/10000 (94.22%)
+
+	Client  2
+	Test set: Average loss: 1.3871 
+	Accuracy Top1: 5029/10000 (50.29%)
+	Accuracy Top5: 9363/10000 (93.63%)
+
+	Client  3
+	Test set: Average loss: 1.3632 
+	Accuracy Top1: 5062/10000 (50.62%)
+	Accuracy Top5: 9404/10000 (94.04%)
+
+	Client  4
+	Test set: Average loss: 1.3698 
+	Accuracy Top1: 5034/10000 (50.34%)
+	Accuracy Top5: 9388/10000 (93.88%)
+
+	Server: 
+	Test set: Average loss: 1.4698 
+	Accuracy Top1: 4740/10000 (47.40%)
+	Accuracy Top5: 9209/10000 (92.09%)
+
+	Round:  2
+	Client  0
+	Test set: Average loss: 1.0695 
+	Accuracy Top1: 6134/10000 (61.34%)
+	Accuracy Top5: 9629/10000 (96.29%)
+
+	Client  1
+	Test set: Average loss: 1.0600 
+	Accuracy Top1: 6136/10000 (61.36%)
+	Accuracy Top5: 9683/10000 (96.83%)
+
+	Client  2
+	Test set: Average loss: 1.0303 
+	Accuracy Top1: 6270/10000 (62.70%)
+	Accuracy Top5: 9665/10000 (96.65%)
+
+	Client  3
+	Test set: Average loss: 1.2038 
+	Accuracy Top1: 5745/10000 (57.45%)
+	Accuracy Top5: 9575/10000 (95.75%)
+
+	Client  4
+	Test set: Average loss: 1.1272 
+	Accuracy Top1: 6007/10000 (60.07%)
+	Accuracy Top5: 9637/10000 (96.37%)
+
+	Server: 
+	Test set: Average loss: 1.0321 
+	Accuracy Top1: 6224/10000 (62.24%)
+	Accuracy Top5: 9679/10000 (96.79%)
+
+	Round:  3
+	Client  0
+	Test set: Average loss: 0.8905 
+	Accuracy Top1: 6886/10000 (68.86%)
+	Accuracy Top5: 9765/10000 (97.65%)
+
+	Client  1
+	Test set: Average loss: 0.9994 
+	Accuracy Top1: 6515/10000 (65.15%)
+	Accuracy Top5: 9712/10000 (97.12%)
+
+	Client  2
+	Test set: Average loss: 0.9187 
+	Accuracy Top1: 6843/10000 (68.43%)
+	Accuracy Top5: 9745/10000 (97.45%)
+
+	Client  3
+	Test set: Average loss: 0.9125 
+	Accuracy Top1: 6827/10000 (68.27%)
+	Accuracy Top5: 9764/10000 (97.64%)
+
+	Client  4
+	Test set: Average loss: 0.9100 
+	Accuracy Top1: 6822/10000 (68.22%)
+	Accuracy Top5: 9738/10000 (97.38%)
+
+	Server: 
+	Test set: Average loss: 0.8399 
+	Accuracy Top1: 7070/10000 (70.70%)
+	Accuracy Top5: 9802/10000 (98.02%)
+
+	Round:  4
+	Client  0
+	Test set: Average loss: 0.8053 
+	Accuracy Top1: 7193/10000 (71.93%)
+	Accuracy Top5: 9809/10000 (98.09%)
+
+	Client  1
+	Test set: Average loss: 0.7769 
+	Accuracy Top1: 7293/10000 (72.93%)
+	Accuracy Top5: 9818/10000 (98.18%)
+
+	Client  2
+	Test set: Average loss: 0.8124 
+	Accuracy Top1: 7211/10000 (72.11%)
+	Accuracy Top5: 9812/10000 (98.12%)
+
+	Client  3
+	Test set: Average loss: 0.8498 
+	Accuracy Top1: 7144/10000 (71.44%)
+	Accuracy Top5: 9800/10000 (98.00%)
+
+	Client  4
+	Test set: Average loss: 0.7879 
+	Accuracy Top1: 7276/10000 (72.76%)
+	Accuracy Top5: 9835/10000 (98.35%)
+
+	Server: 
+	Test set: Average loss: 0.7327 
+	Accuracy Top1: 7461/10000 (74.61%)
+	Accuracy Top5: 9854/10000 (98.54%)
+	
+
+
+split training datasets, lr =0.1, momentum=0.9
+
+	Round:  0
+	Client  0
+	Test set: Average loss: 2.1747 
+	Accuracy Top1: 2257/10000 (22.57%)
+	Accuracy Top5: 7726/10000 (77.26%)
+
+	Client  1
+	Test set: Average loss: 2.1025 
+	Accuracy Top1: 2391/10000 (23.91%)
+	Accuracy Top5: 7907/10000 (79.07%)
+
+	Client  2
+	Test set: Average loss: 2.6508 
+	Accuracy Top1: 1626/10000 (16.26%)
+	Accuracy Top5: 6355/10000 (63.55%)
+
+	Client  3
+	Test set: Average loss: 2.4168 
+	Accuracy Top1: 1868/10000 (18.68%)
+	Accuracy Top5: 7662/10000 (76.62%)
+
+	Client  4
+	Test set: Average loss: 2.1144 
+	Accuracy Top1: 1926/10000 (19.26%)
+	Accuracy Top5: 7496/10000 (74.96%)
+
+	Server: 
+	Test set: Average loss: 2.3227 
+	Accuracy Top1: 1000/10000 (10.00%)
+	Accuracy Top5: 5000/10000 (50.00%)
+
+	Round:  1
+	Client  0
+	Test set: Average loss: 1.8641 
+	Accuracy Top1: 2858/10000 (28.58%)
+	Accuracy Top5: 8329/10000 (83.29%)
+
+	Client  1
+	Test set: Average loss: 1.9798 
+	Accuracy Top1: 2778/10000 (27.78%)
+	Accuracy Top5: 8396/10000 (83.96%)
+
+	Client  2
+	Test set: Average loss: 1.9172 
+	Accuracy Top1: 2799/10000 (27.99%)
+	Accuracy Top5: 8355/10000 (83.55%)
+
+	Client  3
+	Test set: Average loss: 2.1684 
+	Accuracy Top1: 2361/10000 (23.61%)
+	Accuracy Top5: 8087/10000 (80.87%)
+
+	Client  4
+	Test set: Average loss: 2.0793 
+	Accuracy Top1: 2422/10000 (24.22%)
+	Accuracy Top5: 8218/10000 (82.18%)
+
+	Server: 
+	Test set: Average loss: 1.9369 
+	Accuracy Top1: 2763/10000 (27.63%)
+	Accuracy Top5: 8127/10000 (81.27%)
+
+	Round:  2
+	Client  0
+	Test set: Average loss: 1.7531 
+	Accuracy Top1: 3351/10000 (33.51%)
+	Accuracy Top5: 8822/10000 (88.22%)
+
+	Client  1
+	Test set: Average loss: 1.8501 
+	Accuracy Top1: 3136/10000 (31.36%)
+	Accuracy Top5: 8542/10000 (85.42%)
+
+	Client  2
+	Test set: Average loss: 1.8904 
+	Accuracy Top1: 3238/10000 (32.38%)
+	Accuracy Top5: 8685/10000 (86.85%)
+
+	Client  3
+	Test set: Average loss: 2.0790 
+	Accuracy Top1: 2801/10000 (28.01%)
+	Accuracy Top5: 8676/10000 (86.76%)
+
+	Client  4
+	Test set: Average loss: 1.8490 
+	Accuracy Top1: 3077/10000 (30.77%)
+	Accuracy Top5: 8712/10000 (87.12%)
+
+	Server: 
+	Test set: Average loss: 1.6694 
+	Accuracy Top1: 3638/10000 (36.38%)
+	Accuracy Top5: 8932/10000 (89.32%)
+
+	Round:  3
+	Client  0
+	Test set: Average loss: 1.6586 
+	Accuracy Top1: 3871/10000 (38.71%)
+	Accuracy Top5: 8844/10000 (88.44%)
+
+	Client  1
+	Test set: Average loss: 1.8014 
+	Accuracy Top1: 3595/10000 (35.95%)
+	Accuracy Top5: 8577/10000 (85.77%)
+
+	Client  2
+	Test set: Average loss: 1.8110 
+	Accuracy Top1: 3669/10000 (36.69%)
+	Accuracy Top5: 8642/10000 (86.42%)
+
+	Client  3
+	Test set: Average loss: 1.8920 
+	Accuracy Top1: 3194/10000 (31.94%)
+	Accuracy Top5: 8874/10000 (88.74%)
+
+	Client  4
+	Test set: Average loss: 1.7616 
+	Accuracy Top1: 3599/10000 (35.99%)
+	Accuracy Top5: 8867/10000 (88.67%)
+
+	Server: 
+	Test set: Average loss: 1.6335 
+	Accuracy Top1: 4015/10000 (40.15%)
+	Accuracy Top5: 8983/10000 (89.83%)
+
+	Round:  4
+	Client  0
+	Test set: Average loss: 1.5428 
+	Accuracy Top1: 4304/10000 (43.04%)
+	Accuracy Top5: 9119/10000 (91.19%)
+
+	Client  1
+	Test set: Average loss: 1.6147 
+	Accuracy Top1: 4086/10000 (40.86%)
+	Accuracy Top5: 9067/10000 (90.67%)
+
+	Client  2
+	Test set: Average loss: 1.6359 
+	Accuracy Top1: 4186/10000 (41.86%)
+	Accuracy Top5: 8989/10000 (89.89%)
+
+	Client  3
+	Test set: Average loss: 1.8664 
+	Accuracy Top1: 3359/10000 (33.59%)
+	Accuracy Top5: 8951/10000 (89.51%)
+
+	Client  4
+	Test set: Average loss: 1.7151 
+	Accuracy Top1: 3804/10000 (38.04%)
+	Accuracy Top5: 8986/10000 (89.86%)
+
+	Server: 
+	Test set: Average loss: 1.5130 
+	Accuracy Top1: 4422/10000 (44.22%)
+	Accuracy Top5: 9201/10000 (92.01%)
